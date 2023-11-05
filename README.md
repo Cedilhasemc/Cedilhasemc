@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou @Cedilhasemc
+- 👀 Estou interessado em estudar cada vez mais linguagens e métodos diferentes de desenvolvimento em geral
+- 🌱 Atualmente estou aprendendo React, Javascript, Python e C++
+- 💞️ Estou procurando colaborar em diversos projetos que buscam melhorar capacidades tanto básicas como avançadas
